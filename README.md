@@ -32,32 +32,81 @@
 
   <h3>🎓 Zertifizierungen & Qualifikationen</h3>
 
-
   <!-- Reihe 1 -->
   <p>
-    <img src="https://images.credly.com/size/220x220/images/f6d62c5d-1e1d-4de6-92ee-8dc8c80b1c7b/blob" width="120" alt="Badge 1" />
-    <img src="https://images.credly.com/size/220x220/images/c8ba8fa6-ab8b-4df7-879f-4ae7b98b2765/blob" width="120" alt="Badge 2" />
-    <img src="https://images.credly.com/size/220x220/images/c70ba73e-3c8a-46fa-9d60-4a9af94ad662/blob" width="120" alt="Badge 3" />
-    <img src="https://images.credly.com/size/220x220/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" width="120" alt="Badge 4" />
+    <a href="https://www.credly.com/badges/bec25692-13a9-4af7-9b7c-ef7451846389/public_url">
+      <img src="https://images.credly.com/size/220x220/images/f6d62c5d-1e1d-4de6-92ee-8dc8c80b1c7b/blob"
+           width="120"
+           alt="CompTIA Zertifizierungs-Badge" />
+    </a>
+    <a href="https://www.credly.com/badges/f00ebd2b-b799-43f2-ac93-ce6f577b97ec/public_url">
+      <img src="https://images.credly.com/size/220x220/images/c8ba8fa6-ab8b-4df7-879f-4ae7b98b2765/blob"
+           width="120"
+           alt="CompTIA Zertifizierungs-Badge" />
+    </a>
+    <a href="https://www.credly.com/badges/70b2f76a-ec3a-4426-aeeb-5549bb88a51d/public_url">
+      <img src="https://images.credly.com/size/220x220/images/c70ba73e-3c8a-46fa-9d60-4a9af94ad662/blob"
+           width="120"
+           alt="CompTIA Zertifizierungs-Badge" />
+    </a>
+    <a href="https://www.credly.com/badges/cf2e5a54-4be2-4c06-87b8-8a5d0acfc718/public_url">
+      <img src="https://images.credly.com/size/220x220/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob"
+           width="120"
+           alt="CompTIA Zertifizierungs-Badge" />
+    </a>
   </p>
 
   <!-- Reihe 2 -->
   <p>
-    <img src="https://images.credly.com/size/220x220/images/c7ac176b-15a3-4726-827a-e8cee8fe44dc/blob" width="120" alt="Badge 5" />
-    <img src="https://images.credly.com/size/220x220/images/7f7657b9-4d1b-4b8d-b5ee-5fdf6d7ccd71/04294_CompTIA_Cert_Badges_Specialist_-_CIOS.png" width="120" alt="Badge 6" />
-    <img src="https://images.credly.com/size/220x220/images/d68e17f2-b591-4f2e-ae64-414ba82665f4/CompTIA_CLNP.png" width="120" alt="Badge 7" />
-    <img src="https://images.credly.com/size/220x220/images/802502c7-7b2c-4a96-82b0-e6aa5796e878/CompTIA_CSSS.png" width="120" alt="Badge 8" />
+    <a href="https://www.credly.com/badges/a0cf9075-5f3d-4bf1-9e89-7e2d95da532e/public_url">
+      <img src="https://images.credly.com/size/220x220/images/c7ac176b-15a3-4726-827a-e8cee8fe44dc/blob"
+           width="120"
+           alt="CompTIA Zertifizierungs-Badge" />
+    </a>
+    <a href="https://www.credly.com/badges/426b0167-deab-44d0-8d4e-b7c6ee56f703/public_url">
+      <img src="https://images.credly.com/size/220x220/images/7f7657b9-4d1b-4b8d-b5ee-5fdf6d7ccd71/04294_CompTIA_Cert_Badges_Specialist_-_CIOS.png"
+           width="120"
+           alt="CompTIA IT Operations Specialist (CIOS) – Stackable Certification" />
+    </a>
+    <a href="https://www.credly.com/badges/4ae594df-34cd-43c0-9b7b-cd2b74a072ed/public_url">
+      <img src="https://images.credly.com/size/220x220/images/d68e17f2-b591-4f2e-ae64-414ba82665f4/CompTIA_CLNP.png"
+           width="120"
+           alt="CompTIA Linux Network Professional (CLNP) – Stackable Certification" />
+    </a>
+    <a href="https://www.credly.com/badges/036e1324-5b44-412f-8a92-143ae6d7aa8a/public_url">
+      <img src="https://images.credly.com/size/220x220/images/802502c7-7b2c-4a96-82b0-e6aa5796e878/CompTIA_CSSS.png"
+           width="120"
+           alt="CompTIA Systems Support Specialist (CSSS) – Stackable Certification" />
+    </a>
   </p>
 
   <!-- Reihe 3 -->
   <p>
-    <img src="https://images.credly.com/size/220x220/images/8090280a-311f-425f-a1cd-a32770b5a444/CompTIA_CSIS.png" width="120" alt="Badge 9" />
-    <img src="https://images.credly.com/size/220x220/images/3eaf80a9-a69a-480a-a98b-e9a91796d6cb/CompTIA_CNVP.png" width="120" alt="Badge 10" />
-    <img src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="120" alt="Badge 11" />
-    <img src="https://badges-api.ihk-kompetenz.plus/public/badges/image/234d0d55-56ec-4283-8780-0a2f8e4a9908" width="120" alt="Badge 12" />
+    <a href="https://www.credly.com/badges/97792829-7e6f-43d0-988d-d2c00f263b03/public_url">
+      <img src="https://images.credly.com/size/220x220/images/8090280a-311f-425f-a1cd-a32770b5a444/CompTIA_CSIS.png"
+           width="120"
+           alt="CompTIA Secure Infrastructure Specialist (CSIS) – Stackable Certification" />
+    </a>
+    <a href="https://www.credly.com/badges/2953b260-8e9e-41b8-9f90-bba86f465964/public_url">
+      <img src="https://images.credly.com/size/220x220/images/3eaf80a9-a69a-480a-a98b-e9a91796d6cb/CompTIA_CNVP.png"
+           width="120"
+           alt="CompTIA Network Vulnerability Assessment Professional (CNVP) – Stackable Certification" />
+    </a>
+    <a href="https://www.credly.com/badges/79b1807b-b962-4429-8d45-ff90685228f1/public_url">
+      <img src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"
+           width="120"
+           alt="Zertifizierungs-Badge" />
+    </a>
+    <a href="https://badges.ihk-kompetenz.plus/assertion/1ac82f3d-9422-47ba-ad7c-d7673c7cec98">
+      <img src="https://badges-api.ihk-kompetenz.plus/public/badges/image/234d0d55-56ec-4283-8780-0a2f8e4a9908"
+           width="120"
+           alt="IHK Cyber Security Advisor" />
+    </a>
   </p>
 
 </div>
+
+
 
 
 
