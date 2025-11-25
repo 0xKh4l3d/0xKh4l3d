@@ -1,19 +1,16 @@
 <h1 align="center">Willkommen auf meinem GitHub-Profil 👋
 </h1>
-<h3 align="center">Ich bin Khaled (aka **0xKh4l3d**) – ich interessiere mich leidenschaftlich für Cyber Security und baue praxisnahe Homelabs mit Wazuh, pfSense, Windows Server, Linux & mehr. Ich „zerstöre“ Dinge gerne in einer sicheren Testumgebung – und sichere sie danach wieder ab 🛡️</h3>
+<h3 align="center">Ich bin Khaled (aka **0xKh4l3d**)  ich interessiere mich leidenschaftlich für Cyber Security und baue praxisnahe Homelabs mit Wazuh, pfSense, Windows Server, Linux & mehr. Ich „zerstöre“ Dinge gerne in einer sicheren Testumgebung  und sichere sie danach wieder ab 🛡️</h3>
 
 - 🔭 Aktuell arbeite ich an: **SIEM/XDR- und SOC-Homelabs mit **Wazuh**, **pfSense**, **Windows 11** und **Linux** (VirtualBox-basierte Lab-Projekte für GitHub).**
 
 - 🌱 Ich lerne gerade: ****Blue Teaming**, **SOC-Workflows**, **Netzwerksicherheit**, **Linux-Hardening** und **Cloud-Grundlagen (AWS)**.**
 
-- 👯 Ich möchte gerne zusammenarbeiten bei:  
-  Open-Source-**Security-Labs**, Blue-Team-Lerninhalten, Detection-Use-Cases und Dokumentation für Einsteiger:innen.
+- 👯 Ich möchte gerne zusammenarbeiten bei:  Open-Source-**Security-Labs**, Blue-Team-Lerninhalten, Detection-Use-Cases und Dokumentation für Einsteiger:innen.
 
-- 💬 Frag mich gerne zu:  
-  Einstieg in Cyber-Security-Labs, **VirtualBox**-Setups, **Wazuh SIEM/XDR**, **pfSense**-Grundlagen und Lernen mit **TryHackMe** (Top 1 % weltweit).
+- 💬 Frag mich gerne zu:  Einstieg in Cyber-Security-Labs, **VirtualBox**-Setups, **Wazuh SIEM/XDR**, **pfSense**-Grundlagen und Lernen mit **TryHackMe** (Top 1 % weltweit).
 
-🤔 Ich freue mich über Hilfe bei:  
-  Feedback zu meinen Homelabs, Ideen zur Verbesserung von **Log-Analyse**, Detection Rules und meinem Weg Richtung **SOC Analyst / Security Engineer**.
+🤔 Ich freue mich über Hilfe bei:  Feedback zu meinen Homelabs, Ideen zur Verbesserung von **Log-Analyse**, Detection Rules und meinem Weg Richtung **SOC Analyst / Security Engineer**.
 
 - 📫 So erreichst du mich: **khaled.zouinkhi21@gmail.com**
 
@@ -29,20 +26,45 @@
 
 
 
-### 🎓 Zertifizierungen & Qualifikationen
-
-- 💻 **CompTIA A+**
-- 🌐 **CompTIA Network+**
-- 🔐 **CompTIA Security+**
-- 🐧 **CompTIA Linux+**
-- 🎯 **CompTIA PenTest+**
-- ☁️ **AWS Certified Cloud Practitioner**
-- 🛡️ **IHK-Zertifikat „Cyber Security Advisor“**
-- 🎓 Praxisorientierte Trainings & Labs auf **TryHackMe** (Blue Team / SOC)
 
 
+<div align="center">
 
-👀 Mehr zu meinen Projekten findest du in meinen Repositories
+  <h3>🎓 Zertifizierungen & Qualifikationen</h3>
+
+
+  <!-- Reihe 1 -->
+  <p>
+    <img src="https://images.credly.com/size/220x220/images/f6d62c5d-1e1d-4de6-92ee-8dc8c80b1c7b/blob" width="120" alt="Badge 1" />
+    <img src="https://images.credly.com/size/220x220/images/c8ba8fa6-ab8b-4df7-879f-4ae7b98b2765/blob" width="120" alt="Badge 2" />
+    <img src="https://images.credly.com/size/220x220/images/c70ba73e-3c8a-46fa-9d60-4a9af94ad662/blob" width="120" alt="Badge 3" />
+    <img src="https://images.credly.com/size/220x220/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" width="120" alt="Badge 4" />
+  </p>
+
+  <!-- Reihe 2 -->
+  <p>
+    <img src="https://images.credly.com/size/220x220/images/c7ac176b-15a3-4726-827a-e8cee8fe44dc/blob" width="120" alt="Badge 5" />
+    <img src="https://images.credly.com/size/220x220/images/7f7657b9-4d1b-4b8d-b5ee-5fdf6d7ccd71/04294_CompTIA_Cert_Badges_Specialist_-_CIOS.png" width="120" alt="Badge 6" />
+    <img src="https://images.credly.com/size/220x220/images/d68e17f2-b591-4f2e-ae64-414ba82665f4/CompTIA_CLNP.png" width="120" alt="Badge 7" />
+    <img src="https://images.credly.com/size/220x220/images/802502c7-7b2c-4a96-82b0-e6aa5796e878/CompTIA_CSSS.png" width="120" alt="Badge 8" />
+  </p>
+
+  <!-- Reihe 3 -->
+  <p>
+    <img src="https://images.credly.com/size/220x220/images/8090280a-311f-425f-a1cd-a32770b5a444/CompTIA_CSIS.png" width="120" alt="Badge 9" />
+    <img src="https://images.credly.com/size/220x220/images/3eaf80a9-a69a-480a-a98b-e9a91796d6cb/CompTIA_CNVP.png" width="120" alt="Badge 10" />
+    <img src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="120" alt="Badge 11" />
+    <img src="https://badges-api.ihk-kompetenz.plus/public/badges/image/234d0d55-56ec-4283-8780-0a2f8e4a9908" width="120" alt="Badge 12" />
+  </p>
+
+</div>
+
+
+
+
+
+
+
 
 
 
