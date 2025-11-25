@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Khaled</h1>
+<h1 align="center">Willkommen auf meinem GitHub-Profil 👋
+</h1>
 <h3 align="center">Ich bin Khaled (aka **0xKh4l3d**) – ich interessiere mich leidenschaftlich für Cyber Security und baue praxisnahe Homelabs mit Wazuh, pfSense, Windows Server, Linux & mehr. Ich „zerstöre“ Dinge gerne in einer sicheren Testumgebung – und sichere sie danach wieder ab 🛡️</h3>
 
 - 🔭 Aktuell arbeite ich an: **SIEM/XDR- und SOC-Homelabs mit **Wazuh**, **pfSense**, **Windows 11** und **Linux** (VirtualBox-basierte Lab-Projekte für GitHub).**
