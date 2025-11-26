@@ -1,6 +1,6 @@
 <h1 align="center">Willkommen auf meinem GitHub-Profil 👋
 </h1>
-<h3 align="center">Ich bin Khaled (0xKh4l3d) - Ein leidenschaftlicher Cybersecurity-Enthusiast, der in seinen Homelabs Red- und Blue-Team-Methoden verbindet. Mein Fokus liegt auf dem kontinuierlichen Zyklus aus Aufbau, Penetrationstesting und Härtung von Systemen, um robuste Sicherheitsarchitekturen zu entwickeln und zu validieren.🛡️</h3>
+<h3 align="center">Ich bin Khaled (0xKh4l3d) - Ein leidenschaftlicher Cybersecurity-Enthusiast, der in seinen Homelabs Red- und Blue-Team-Methoden verbindet. Mein Fokus liegt auf dem kontinuierlichen Zyklus aus Aufbau, Penetrationstesting und Härtung von Systemen, um robuste Sicherheitsarchitekturen zu entwickeln und zu validieren🛡️</h3>
 
 - 🔭 Aktuell arbeite ich an: Vulnerability-Management-Projekt, bei dem ich eine vollständige Schwachstellenanalyse-Umgebung aufbaue – inklusive automatisierter Scans, Priorisierung nach CVSS, Reporting und Integration in bestehende Security-Prozesse. Ziel ist es, Schwachstellen effizient zu identifizieren, zu bewerten und nachhaltige Maßnahmen abzuleiten.
 - 🌱 Ich lerne gerade: ****Blue Teaming**, **SOC-Workflows**, **Netzwerksicherheit**, **Linux-Hardening** und **Cloud-Grundlagen (AWS)**.**
