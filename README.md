@@ -2,8 +2,7 @@
 </h1>
 <h3 align="center">Ich bin Khaled (aka **0xKh4l3d**)  ich interessiere mich leidenschaftlich für Cyber Security und baue praxisnahe Homelabs mit Wazuh, pfSense, Windows Server, Linux & mehr. Ich „zerstöre“ Dinge gerne in einer sicheren Testumgebung  und sichere sie danach wieder ab 🛡️</h3>
 
-- 🔭 Aktuell arbeite ich an: **SIEM/XDR- und SOC-Homelabs mit **Wazuh**, **pfSense**, **Windows 11** und **Linux** (VirtualBox-basierte Lab-Projekte für GitHub).**
-
+- 🔭 Aktuell arbeite ich an: Vulnerability-Management-Projekt, bei dem ich eine vollständige Schwachstellenanalyse-Umgebung aufbaue – inklusive automatisierter Scans, Priorisierung nach CVSS, Reporting und Integration in bestehende Security-Prozesse. Ziel ist es, Schwachstellen effizient zu identifizieren, zu bewerten und nachhaltige Maßnahmen abzuleiten.
 - 🌱 Ich lerne gerade: ****Blue Teaming**, **SOC-Workflows**, **Netzwerksicherheit**, **Linux-Hardening** und **Cloud-Grundlagen (AWS)**.**
 
 - 👯 Ich möchte gerne zusammenarbeiten bei:  Open-Source-**Security-Labs**, Blue-Team-Lerninhalten, Detection-Use-Cases und Dokumentation für Einsteiger:innen.
