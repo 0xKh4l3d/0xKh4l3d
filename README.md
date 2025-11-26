@@ -9,7 +9,7 @@
 
 - 💬 Frag mich gerne zu:  Grundlagen der IT-Sicherheit, Penetration Testing Grundlagen, Aufbau virtueller Security-Labs mit VirtualBox und Lernen mit **TryHackMe** (Top 1 % weltweit).
 
-🤔 Ich freue mich über Hilfe bei:  Feedback zu meinen Homelabs, Ideen zur Verbesserung von **Log-Analyse**, Detection Rules und meinem Weg Richtung **SOC Analyst / Security Engineer**.
+- 🤔 Ich freue mich über Hilfe bei:  Feedback zu meinen Homelabs, Ideen zur Verbesserung von **Log-Analyse**, Detection Rules und meinem Weg Richtung **SOC Analyst / Security Engineer**.
 
 - 📫 So erreichst du mich: **khaled.zouinkhi21@gmail.com**
 
