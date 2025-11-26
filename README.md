@@ -7,7 +7,7 @@
 
 - 👯 Ich möchte gerne zusammenarbeiten bei:  Open-Source-**Security-Labs**, Blue-Team-Lerninhalten, Detection-Use-Cases und Dokumentation für Einsteiger:innen.
 
-- 💬 Frag mich gerne zu:  Einstieg in Cyber-Security-Labs, **VirtualBox**-Setups, **Wazuh SIEM/XDR**, **pfSense**-Grundlagen und Lernen mit **TryHackMe** (Top 1 % weltweit).
+- 💬 Frag mich gerne zu:  Grundlagen der IT-Sicherheit, Penetration Testing Grundlagen, Aufbau virtueller Security-Labs mit VirtualBox und Lernen mit **TryHackMe** (Top 1 % weltweit).
 
 🤔 Ich freue mich über Hilfe bei:  Feedback zu meinen Homelabs, Ideen zur Verbesserung von **Log-Analyse**, Detection Rules und meinem Weg Richtung **SOC Analyst / Security Engineer**.
 
