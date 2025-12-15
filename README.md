@@ -18,7 +18,7 @@
 ### 🧩 TryHackMe
 
 [![TryHackMe Badge]
-<img width="329" height="88" alt="khal3dzk" src="https://github.com/user-attachments/assets/716e209c-11d4-4873-8785-4c30075acd08" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/khal3dzk.png" alt="Your Image Badge" />
 
 
 - 🌍 Rank: **Top 1 % weltweit**
