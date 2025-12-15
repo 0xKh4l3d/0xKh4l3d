@@ -17,7 +17,7 @@
 
 ### 🧩 TryHackMe
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/khal3dzk.png)](https://tryhackme.com/p/khal3dzk)
+[![TryHackMe Badge]<img src="https://tryhackme-badges.s3.amazonaws.com/khal3dzk.png" alt="Your Image Badge" />
 
 - 🌍 Rank: **Top 1 % weltweit**
 - 🧠 Fokus: SOC, Blue Teaming, Netzwerksicherheit, Log-Analyse
